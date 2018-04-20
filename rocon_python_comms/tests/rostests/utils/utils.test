@@ -1,3 +1,0 @@
-<launch>
-  <test test-name="test_utils" pkg="rocon_python_comms" type="test_utils.py"/>
-</launch>
