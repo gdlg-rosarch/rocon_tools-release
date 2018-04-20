@@ -1,3 +1,0 @@
-<launch>
-  <test test-name="test_connection_cache_node_actions" pkg="rocon_python_comms" type="test_connection_cache_node_actions.py"/>
-</launch>
